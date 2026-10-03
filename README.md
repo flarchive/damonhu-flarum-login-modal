@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of damonhu/flarum-login-modal.** Not for installation: use [Packagist](https://packagist.org/packages/damonhu/flarum-login-modal) or the [upstream repository](https://github.com/DamonHu/flarum-login-modal).
 
-**0** versions archived · Latest: [`1.2.4`](https://github.com/flarchive/damonhu-flarum-login-modal/tree/archive/v1.2.4) · License: `MIT` · Flarum: `^1.2.0`
+**24** versions archived · Latest: [`1.2.4`](https://github.com/flarchive/damonhu-flarum-login-modal/tree/archive/v1.2.4) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.1` | 2022-10-29 | `^1.2.0` | [Browse](https://github.com/flarchive/damonhu-flarum-login-modal/tree/archive/v1.0.1) |
+| `1.0.2` | 2022-10-29 | `^1.2.0` | [Browse](https://github.com/flarchive/damonhu-flarum-login-modal/tree/archive/v1.0.2) |
+| `1.0.3` | 2022-10-29 | `^1.2.0` | [Browse](https://github.com/flarchive/damonhu-flarum-login-modal/tree/archive/v1.0.3) |
+| `1.0.4` | 2022-10-29 | `^1.2.0` | [Browse](https://github.com/flarchive/damonhu-flarum-login-modal/tree/archive/v1.0.4) |
+| `1.0.5` | 2022-10-29 | `^1.2.0` | [Browse](https://github.com/flarchive/damonhu-flarum-login-modal/tree/archive/v1.0.5) |
+| `1.0.6` | 2022-10-29 | `^1.2.0` | [Browse](https://github.com/flarchive/damonhu-flarum-login-modal/tree/archive/v1.0.6) |
+| `1.0.7` | 2022-10-29 | `^1.2.0` | [Browse](https://github.com/flarchive/damonhu-flarum-login-modal/tree/archive/v1.0.7) |
+| `1.0.8` | 2022-10-29 | `^1.2.0` | [Browse](https://github.com/flarchive/damonhu-flarum-login-modal/tree/archive/v1.0.8) |
+| `1.0.9` | 2022-10-29 | `^1.2.0` | [Browse](https://github.com/flarchive/damonhu-flarum-login-modal/tree/archive/v1.0.9) |
+| `1.1.0` | 2022-10-29 | `^1.2.0` | [Browse](https://github.com/flarchive/damonhu-flarum-login-modal/tree/archive/v1.1.0) |
+
+[View all 24 versions](https://github.com/flarchive/damonhu-flarum-login-modal/tags)
 
 Catalog entry: [packages/damonhu-flarum-login-modal.json](https://github.com/flarchive/archive-index/blob/main/packages/damonhu-flarum-login-modal.json)
 
